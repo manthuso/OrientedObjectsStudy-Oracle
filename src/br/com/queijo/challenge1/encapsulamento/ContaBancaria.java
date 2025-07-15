@@ -1,4 +1,4 @@
-package br.com.queijo.challenge1;
+package br.com.queijo.challenge1.encapsulamento;
 
 public class ContaBancaria {
     private int numeroConta;
@@ -21,6 +21,6 @@ public class ContaBancaria {
         this.saldo = saldo;
     }
 
-    }
+
 }
 

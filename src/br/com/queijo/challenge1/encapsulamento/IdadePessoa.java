@@ -1,4 +1,4 @@
-package br.com.queijo.challenge1;
+package br.com.queijo.challenge1.encapsulamento;
 
 public class IdadePessoa {
     private int idade;
